@@ -1,0 +1,20 @@
+Directory:
+	dir : shows all file names in the folder
+	cd.. : get out of the current folder
+	cd FILE_NAME: get into the FILE_NAME
+
+Clone:
+	git clone REP_ADDRESS: clone the repro in PC file
+	
+Status:
+	git status: show the status of file
+
+Add File:
+	git add FILE_NAME: add the FILE_NAME to commit
+	git add .: add all files in the folder
+
+Commit:
+	git commit -m "MESSAGE": Commit
+
+Push:
+	git push: push all the commits
